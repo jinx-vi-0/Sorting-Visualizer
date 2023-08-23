@@ -1,9 +1,9 @@
-# VisualSort Hub - Sorting Visualization Website
+# Sorting Visualizer
 
-Welcome to VisualSort Hub, a powerful tool for visualizing various sorting algorithms in action! This web application is designed to help you better understand how different sorting algorithms work by providing real-time visualizations of the sorting process. Whether you're a student learning about sorting algorithms or a curious mind interested in exploring the magic of sorting, VisualSort Hub has you covered.
+Welcome to Sorting Visualizer, a powerful tool for visualizing various sorting algorithms in action! This web application is designed to help you better understand how different sorting algorithms work by providing real-time visualizations of the sorting process. Whether you're a student learning about sorting algorithms or a curious mind interested in exploring the magic of sorting, Sorting Visualizer has you covered.
 
 ### Visualization of Sorting Algorithms
-VisualSort Hub provides visualizations for a range of sorting algorithms, including:
+Sorting Visualizer provides visualizations for a range of sorting algorithms, including:
 
 - Bubble Sort
 - Selection Sort
